@@ -1,0 +1,9 @@
+com\feujiCompany\service\FeujiSeviceImpl.class
+com\feujiCompany\Controller\Feuji_Controller.class
+com\feujiCompany\DTO\Application.class
+com\feujiCompany\Configuration\Feuji_Configuration.class
+com\feujiCompany\DTO\Employee.class
+com\feujiCompany\Configuration\HibernateConfig.class
+com\feujiCompany\service\FeujiService.class
+com\feujiCompany\DTO\ApplicationEntity.class
+com\feujiCompany\repository\FeujiRepository.class
